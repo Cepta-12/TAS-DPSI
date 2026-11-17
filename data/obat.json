@@ -1,0 +1,18 @@
+[
+    {
+        "kode": "3",
+        "nama": "MasCepta",
+        "kategori": "Kapsul",
+        "harga": 70000,
+        "stok": 90,
+        "kedaluwarsa": "08-07-2090"
+    },
+    {
+        "kode": "5",
+        "nama": "Enervon",
+        "kategori": "Tablet",
+        "harga": 30000,
+        "stok": 50,
+        "kedaluwarsa": "09-09-2027"
+    }
+]
