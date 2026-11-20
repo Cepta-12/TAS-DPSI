@@ -14,5 +14,29 @@
         "harga": 30000,
         "stok": 50,
         "kedaluwarsa": "09-09-2027"
+    },
+    {
+        "kode": "1",
+        "nama": "Wowo",
+        "kategori": "Sirup",
+        "harga": 17000,
+        "stok": 5,
+        "kedaluwarsa": "20-08-2080"
+    },
+    {
+        "kode": "0",
+        "nama": "Mirasol",
+        "kategori": "Salep",
+        "harga": 20500,
+        "stok": 10,
+        "kedaluwarsa": "08-08-2028"
+    },
+    {
+        "kode": "12",
+        "nama": "Janson",
+        "kategori": "Kapsul",
+        "harga": 1000,
+        "stok": 1,
+        "kedaluwarsa": "12-12-2045"
     }
 ]

@@ -32,6 +32,8 @@ def menu_obat(): #fungsi menu obat
 
         if pilihan == "1":
 
+            
+            tampilkan_obat()
             tambah_obat()
 
         elif pilihan == "2":
