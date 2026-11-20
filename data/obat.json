@@ -16,6 +16,7 @@
         "kedaluwarsa": "09-09-2027"
     },
     {
+<<<<<<< HEAD
         "kode": "1",
         "nama": "Wowo",
         "kategori": "Sirup",
@@ -38,5 +39,13 @@
         "harga": 1000,
         "stok": 1,
         "kedaluwarsa": "12-12-2045"
+=======
+        "kode": "001",
+        "nama": "Chael",
+        "kategori": "Salep",
+        "harga": 40000,
+        "stok": 20,
+        "kedaluwarsa": "01-02-2990"
+>>>>>>> aa69bb1bd8156eb1bd6caf857fc053247f126284
     }
 ]
